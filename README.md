@@ -1,16 +1,12 @@
-<!-- Replace the GitHub username below if your profile login is different. -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123B64,100:2F81F7&height=180&section=header&text=Hari%20Prasad&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Data%20Analytics%20%7C%20Python&descAlignY=56&descSize=17" width="100%" alt="Animated header banner" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%7C+AI+%26+Machine+Learning;Learning+Python%2C+SQL+%26+Data+Analytics;Exploring+AI+and+workflow+automation;Building+skills+one+commit+at+a+time+%F0%9F%9A%80" alt="Animated typing text" />
+<a href="https://motionbgs.com/media/8600/spider-man-black-web.960x540.mp4">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b102e,45:5b21b6,100:a78bfa&height=220&section=header&text=HARI%20PRASAD&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20ML%20%7C%20DATA%20ANALYTICS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hari Prasad purple animated profile banner" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-2F81F7?style=for-the-badge" alt="Focus: AI and Data" />
-  <img src="https://img.shields.io/badge/Mindset-Learn%20by%20Building-238636?style=for-the-badge" alt="Learn by building" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hari+Prasad+%F0%9F%91%8B;CSE+%7C+Artificial+Intelligence+%26+Machine+Learning;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Web+Development" alt="Typing animation" />
+
+<img src="https://komarev.com/ghpvc/?username=hariprasad032006-457&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -18,69 +14,94 @@
 
 ## 👋 About Me
 
-- 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
-- 🐍 Learning and practising **Python, SQL, and data analysis**.
-- 📊 Exploring **Power BI, Pandas, NumPy, and data visualization**.
-- 🤖 Interested in practical **AI/ML, AI tools, and workflow automation**.
-- 🌱 Focused on improving problem-solving, building projects, and documenting what I learn.
+<img align="right" alt="Coding animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> 💡 *Stay curious. Build consistently. Improve one step at a time.*
+- 🎓 Computer Science Engineering student specializing in **AI & Machine Learning**
+- 🧠 Interested in **Artificial Intelligence, Machine Learning, and Data Analytics**
+- 🐍 Practising **Python** and strengthening my **SQL** skills
+- 🌐 Exploring **Web Development** and practical software projects
+- 📈 Learning by building, practising, and improving one step at a time
+- 📫 Email: **[hariprasad032006@gmail.com](mailto:hariprasad032006@gmail.com)**
 
-## 🧰 Tools & Technologies
+<br clear="right"/>
+
+> *Curious mind. Consistent practice. One project at a time.*
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask,fastapi" alt="Python, SQLite, Git, GitHub, VS Code, Flask and FastAPI" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-prasad-01a7183a7/)
+[![Email](https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasad032006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprasad032006-457)
 
 </div>
 
-## 🚀 What I'm Exploring
-
-- 📈 Data cleaning, exploratory data analysis, and dashboards.
-- 🧠 Machine learning fundamentals and practical AI applications.
-- ⚙️ APIs, Python backend tools, and workflow automation.
-- 🧩 Writing clear READMEs and sharing progress through GitHub.
-
-## 📊 GitHub Dashboard
+## 🛠️ Tech Stack & Interests
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariprasad032006-457&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad032006-457&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6C3483?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Analytics & Development Tools**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Areas I'm Exploring**
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-8B5CF6?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web%20Development-A78BFA?style=for-the-badge&logoColor=black)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariprasad032006-457&show_icons=true&hide_border=true&bg_color=1b102e&title_color=a78bfa&icon_color=c4b5fd&text_color=ffffff" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad032006-457&layout=compact&hide_border=true&bg_color=1b102e&title_color=a78bfa&text_color=ffffff" alt="Most used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=hariprasad032006-457&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=hariprasad032006-457&hide_border=true&background=1b102e&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=c4b5fd" alt="GitHub contribution streak" />
 
 </div>
 
-## 🐍 My Contribution Trail
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hariprasad032006-457/hariprasad032006-457/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+<img src="https://raw.githubusercontent.com/hariprasad032006-457/hariprasad032006-457/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 
-*The contribution-snake image appears after you add the included GitHub Actions workflow and it completes successfully.*
+<sub>If the snake is not visible yet, run the GitHub Actions workflow once and make sure it succeeds.</sub>
 
-## 🤝 Connect
+## 🎬 A Little Visual Inspiration
 
-- 💻 GitHub: [@hariprasad032006-457](https://github.com/hariprasad032006-457)
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
-- ✉️ Email: Add a public contact email here only if you want it displayed.
+I like the dark Spider-Man web aesthetic. [Open the motion background I chose](https://motionbgs.com/media/8600/spider-man-black-web.960x540.mp4).
+
+<sub>GitHub README Markdown does not reliably autoplay or embed MP4 files as banners, so the profile uses an animated purple banner and links to your video instead.</sub>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,55:123B64,100:0D1117&height=110&section=footer" width="100%" alt="Animated footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b102e,50:5b21b6,100:a78bfa&height=120&section=footer&animation=fadeIn" width="100%" alt="Purple animated footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+learn+and+build+together." alt="Thank you typing animation" />
+
+**Thanks for stopping by! ⭐**
 
 </div>
