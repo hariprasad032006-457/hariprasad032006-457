@@ -14,21 +14,25 @@
 
 </div>
 
-👋 About Me
-- 🎓 Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
-- 🐍 Learning and practising Python, SQL, and data analysis.
-- 📊 Exploring Power BI, Pandas, NumPy, and data visualization.
-- 🤖 Interested in practical AI/ML, AI tools, and workflow automation.
-- 🌱 Focused on improving problem-solving, building projects, and documenting what I learn.
-💡 Stay curious. Build consistently. Improve one step at a time.
+---
 
-🧰 Tools & Technologies
+## 👋 About Me
+
+- 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
+- 🐍 Learning and practising **Python, SQL, and data analysis**.
+- 📊 Exploring **Power BI, Pandas, NumPy, and data visualization**.
+- 🤖 Interested in practical **AI/ML, AI tools, and workflow automation**.
+- 🌱 Focused on improving problem-solving, building projects, and documenting what I learn.
+
+> 💡 *Stay curious. Build consistently. Improve one step at a time.*
+
+## 🧰 Tools & Technologies
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,vscode,flask,fastapi" alt="Python, SQLite, Git, GitHub, VS Code, Flask and FastAPI" />
 
-
-
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -39,34 +43,42 @@
 
 </div>
 
-🚀 What I'm Exploring
+## 🚀 What I'm Exploring
+
 - 📈 Data cleaning, exploratory data analysis, and dashboards.
 - 🧠 Machine learning fundamentals and practical AI applications.
 - ⚙️ APIs, Python backend tools, and workflow automation.
 - 🧩 Writing clear READMEs and sharing progress through GitHub.
-📊 GitHub Dashboard
+
+## 📊 GitHub Dashboard
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hariprasad032006-457&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub profile statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad032006-457&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=hariprasad032006-457&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-🐍 My Contribution Trail
+## 🐍 My Contribution Trail
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/hariprasad032006-457/hariprasad032006-457/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 
 </div>
 
-The contribution-snake image appears after you add the included GitHub Actions workflow and it completes successfully.
-🤝 Connect
-- 💻 GitHub: @hariprasad032006-457
+*The contribution-snake image appears after you add the included GitHub Actions workflow and it completes successfully.*
+
+## 🤝 Connect
+
+- 💻 GitHub: [@hariprasad032006-457](https://github.com/hariprasad032006-457)
 - 💼 LinkedIn: Add your LinkedIn profile URL here.
 - ✉️ Email: Add a public contact email here only if you want it displayed.
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,55:123B64,100:0D1117&height=110&section=footer" width="100%" alt="Animated footer banner" />
