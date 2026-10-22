@@ -5,7 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hari+Prasad+%F0%9F%91%8B;CSE+%7C+Artificial+Intelligence+%26+Machine+Learning;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Web+Development" alt="Typing animation" />
 
-<img src="https://komarev.com/ghpvc/?username=hariprasad032006-457&color=8b5cf6&style=flat-square" alt="Profile views" />
+
+<img src="https://komarev.com/ghpvc/?username=hariprasad032006-457&style=flat-square&color=8b5cf6" alt="Profile views" />
+
 
 </div>
 
