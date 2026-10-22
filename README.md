@@ -1,8 +1,7 @@
 <div align="center">
 
 <a href="https://motionbgs.com/media/8600/spider-man-black-web.960x540.mp4">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b102e,45:5b21b6,100:a78bfa&height=220&section=header&text=HARI%20PRASAD&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20ML%20%7C%20DATA%20ANALYTICS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hari Prasad purple animated profile banner" />
-</a>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HARI%20PRASAD&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="Hari Prasad profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hari+Prasad+%F0%9F%91%8B;CSE+%7C+Artificial+Intelligence+%26+Machine+Learning;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Web+Development" alt="Typing animation" />
 
